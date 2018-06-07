@@ -1,0 +1,5 @@
+/home/jack/Projects/gooy/gooy/bin/Debug/gooy.exe
+/home/jack/Projects/gooy/gooy/bin/Debug/gooy.pdb
+/home/jack/Projects/gooy/gooy/obj/x86/Debug/gooy.csproj.CoreCompileInputs.cache
+/home/jack/Projects/gooy/gooy/obj/x86/Debug/gooy.exe
+/home/jack/Projects/gooy/gooy/obj/x86/Debug/gooy.pdb
